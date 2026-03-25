@@ -1,469 +1,91 @@
-{
-    "name": "Fancode Live Matches Data in Json",
-    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:49:09 PM 25-03-2026",
-    "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Uganda (Uganda tour of Namibia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
-            "team_1": "Namibia",
-            "team_2": "Uganda",
-            "status": "LIVE",
-            "event_name": "Uganda tour of Namibia, 2026",
-            "match_name": "Namibia vs Uganda",
-            "match_id": 141450,
-            "startTime": "01:00:00 PM 25-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tanzania vs Eswatini (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Eswatini-vs-Tanzania_1774006051636.png",
-            "team_1": "Tanzania",
-            "team_2": "Eswatini",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Tanzania vs Eswatini",
-            "match_id": 140977,
-            "startTime": "03:00:00 PM 25-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Saint Helena vs Seychelles (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Saint-Helena-vs-Seychelles_1774006051643.png",
-            "team_1": "Saint Helena",
-            "team_2": "Seychelles",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Saint Helena vs Seychelles",
-            "match_id": 140976,
-            "startTime": "03:00:00 PM 25-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malawi vs Ghana (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Malawi-vs-Ghana_1774006033024.png",
-            "team_1": "Malawi",
-            "team_2": "Ghana",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Malawi vs Ghana",
-            "match_id": 140978,
-            "startTime": "07:20:00 PM 25-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Madrid Women vs Barcelona Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140961_5720_RM-W_BAR-W_fc-web.jpg",
-            "team_1": "Real Madrid Women",
-            "team_2": "Barcelona Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Real Madrid Women vs Barcelona Women",
-            "match_id": 140961,
-            "startTime": "11:15:00 PM 25-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Manchester United Women vs Bayern Munich Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140962_5720_MUN-W_BAY-W_fc-web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Bayern Munich Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Manchester United Women vs Bayern Munich Women",
-            "match_id": 140962,
-            "startTime": "01:30:00 AM 26-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Actors Cricket Bash 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Actors-Cricket-Bash-2026-old.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Actors Cricket Bash 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 141349,
-            "startTime": "09:00:00 AM 26-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "TBC vs TBC",
-            "match_id": 141383,
-            "startTime": "09:00:00 AM 26-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Actors Cricket Bash 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Actors-Cricket-Bash-2026-old.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Actors Cricket Bash 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 141350,
-            "startTime": "11:45:00 AM 26-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "TBC vs TBC",
-            "match_id": 141384,
-            "startTime": "01:30:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Victoria vs South Australia",
-            "match_id": 134044,
-            "startTime": "05:00:00 AM 26-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Actors Cricket Bash 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Actors-Cricket-Bash-2026-old.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Actors Cricket Bash 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 141351,
-            "startTime": "02:30:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "C Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "C Court Feed",
-            "team_2": "Miami, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Miami Open 2026",
-            "match_name": "C Court Feed",
-            "match_id": 141483,
-            "startTime": "08:30:00 PM 25-03-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "World Feed",
-            "team_2": "Miami, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Miami Open 2026",
-            "match_name": "World Feed",
-            "match_id": 141052,
-            "startTime": "12:30:00 AM 26-03-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "B Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "B Court Feed",
-            "team_2": "Miami, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Miami Open 2026",
-            "match_name": "B Court Feed",
-            "match_id": 141051,
-            "startTime": "12:30:00 AM 26-03-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "A Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "A Court Feed",
-            "team_2": "Miami, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Miami Open 2026",
-            "match_name": "A Court Feed",
-            "match_id": 141482,
-            "startTime": "12:30:00 AM 26-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Group - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Marquee Group - Day 1",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "Marquee Group - Day 1",
-            "match_id": 141587,
-            "startTime": "06:00:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Featured Groups - Day 1",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "Featured Groups - Day 1",
-            "match_id": 141588,
-            "startTime": "06:15:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "Main Feed - Day 1",
-            "match_id": 141586,
-            "startTime": "06:45:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Featured Holes - Day 1",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "Featured Holes - Day 1",
-            "match_id": 141589,
-            "startTime": "07:00:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Brazil vs France (International Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Brazil",
-            "team_2": "France",
-            "status": "UPCOMING",
-            "event_name": "International Friendlies 2026",
-            "match_name": "Brazil vs France",
-            "match_id": 141604,
-            "startTime": "01:30:00 AM 27-03-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "A Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "A Court Feed",
-            "team_2": "Miami, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Miami Open 2026",
-            "match_name": "A Court Feed",
-            "match_id": 141054,
-            "startTime": "10:30:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "World Feed",
-            "team_2": "Miami, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Miami Open 2026",
-            "match_name": "World Feed",
-            "match_id": 141053,
-            "startTime": "10:30:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "B Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "B Court Feed",
-            "team_2": "Miami, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Miami Open 2026",
-            "match_name": "B Court Feed",
-            "match_id": 141484,
-            "startTime": "10:30:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "World Feed - Day 1",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "World Feed - Day 1",
-            "match_id": 141582,
-            "startTime": "01:30:00 AM 27-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "TBC vs TBC",
-            "match_id": 141385,
-            "startTime": "12:00:00 PM 27-03-2026"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Practice 1 vs Japan (F1 ARAMCO JAPANESE GRAND PRIX 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japanese-Grand-Prix_fc-web_1774421494775.jpg",
-            "team_1": "Practice 1",
-            "team_2": "Japan",
-            "status": "UPCOMING",
-            "event_name": "F1 ARAMCO JAPANESE GRAND PRIX 2026",
-            "match_name": "Practice 1",
-            "match_id": 139380,
-            "startTime": "08:00:00 AM 27-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Actors Cricket Bash 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Actors-Cricket-Bash-2026-old.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Actors Cricket Bash 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 141352,
-            "startTime": "02:15:00 PM 27-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malawi vs Eswatini (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/07_Malawi-vs-Eswatini_1774006033082.png",
-            "team_1": "Malawi",
-            "team_2": "Eswatini",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Malawi vs Eswatini",
-            "match_id": 140980,
-            "startTime": "03:00:00 PM 27-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ghana vs Saint Helena (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/08_Ghana-vs-Saint-Helena_1774006032283.png",
-            "team_1": "Ghana",
-            "team_2": "Saint Helena",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Ghana vs Saint Helena",
-            "match_id": 140979,
-            "startTime": "03:00:00 PM 27-03-2026"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Practice 2 vs Japan (F1 ARAMCO JAPANESE GRAND PRIX 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japanese-Grand-Prix_fc-web_1774421494775.jpg",
-            "team_1": "Practice 2",
-            "team_2": "Japan",
-            "status": "UPCOMING",
-            "event_name": "F1 ARAMCO JAPANESE GRAND PRIX 2026",
-            "match_name": "Practice 2",
-            "match_id": 139381,
-            "startTime": "11:30:00 AM 27-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Seychelles vs Tanzania (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/09_Seychelles-vs-Tanzania_1774006032252.png",
-            "team_1": "Seychelles",
-            "team_2": "Tanzania",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Seychelles vs Tanzania",
-            "match_id": 140981,
-            "startTime": "07:20:00 PM 27-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
-            "team_1": "West Indies Women",
-            "team_2": "Australia Women",
-            "status": "UPCOMING",
-            "event_name": "Australia Women's tour of West Indies 2026",
-            "match_name": "West Indies Women vs Australia Women",
-            "match_id": 141331,
-            "startTime": "11:30:00 PM 27-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 2 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Featured Groups - Day 2",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "Featured Groups - Day 2",
-            "match_id": 141592,
-            "startTime": "06:00:00 PM 27-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Group - Day 2 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Marquee Group - Day 2",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "Marquee Group - Day 2",
-            "match_id": 141591,
-            "startTime": "06:15:00 PM 27-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 2 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Main Feed - Day 2",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "Main Feed - Day 2",
-            "match_id": 141590,
-            "startTime": "06:45:00 PM 27-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 2 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Featured Holes - Day 2",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "Featured Holes - Day 2",
-            "match_id": 141593,
-            "startTime": "07:00:00 PM 27-03-2026"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Circuit Of The Americas (RED BULL GRAND PRIX OF THE UNITED STATES 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Moto_GP.jpg",
-            "team_1": "Day 1",
-            "team_2": "Circuit Of The Americas",
-            "status": "UPCOMING",
-            "event_name": "RED BULL GRAND PRIX OF THE UNITED STATES 2026",
-            "match_name": "USA GP",
-            "match_id": 139930,
-            "startTime": "07:30:00 PM 27-03-2026"
-        }
-    ]
-}
+#EXTM3U x-tvg-url=""
+#PLAYLIST:Stalker Playlist (2026-03-22T11:34:48.523Z)
+
+#EXTINF:-1 tvg-id="73400" tvg-name="WELCOME CHANNEL" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72719.png" group-title="ENGLISH - CANADA ",WELCOME CHANNEL
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=73400
+#EXTINF:-1 tvg-id="73911" tvg-name="MAGIC FEEDBACK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/73224.png" group-title="ENGLISH - CANADA ",MAGIC FEEDBACK
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=73911
+#EXTINF:-1 tvg-id="61474" tvg-name="WELCOME TO MAGIC 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61252.png" group-title="ENGLISH - CANADA ",WELCOME TO MAGIC 4K
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=61474
+#EXTINF:-1 tvg-id="62434" tvg-name="WEATHER NETWORK NATIONAL" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62189.png" group-title="ENGLISH - CANADA ",WEATHER NETWORK NATIONAL
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=62434
+#EXTINF:-1 tvg-id="75496" tvg-name="HAPPY NEW YEAR 2026" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62016.png" group-title="ENGLISH - CANADA ",HAPPY NEW YEAR 2026
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=75496
+#EXTINF:-1 tvg-id="9282" tvg-name="TVO" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9198.png" group-title="ENGLISH - CANADA ",TVO
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9282
+#EXTINF:-1 tvg-id="9269" tvg-name="GLOBAL NATIONAL NEWS 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9185.png" group-title="ENGLISH - CANADA ",GLOBAL NATIONAL NEWS 4K
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9269
+#EXTINF:-1 tvg-id="2673" tvg-name="OMNI.1 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2590.png" group-title="ENGLISH - CANADA ",OMNI.1 HD
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2673
+#EXTINF:-1 tvg-id="2670" tvg-name="OMNI.2 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2587.png" group-title="ENGLISH - CANADA ",OMNI.2 HD
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2670
+#EXTINF:-1 tvg-id="9290" tvg-name="CBC HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9206.png" group-title="ENGLISH - CANADA ",CBC HD
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9290
+#EXTINF:-1 tvg-id="2606" tvg-name="CTV SCI-FI 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2523.png" group-title="ENGLISH - CANADA ",CTV SCI-FI 4K
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2606
+#EXTINF:-1 tvg-id="2672" tvg-name="OMNI EAST" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2589.png" group-title="ENGLISH - CANADA ",OMNI EAST
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2672
+#EXTINF:-1 tvg-id="75705" tvg-name="CP24 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2508.png" group-title="ENGLISH - CANADA ",CP24 4K
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=75705
+#EXTINF:-1 tvg-id="2583" tvg-name="BNN BLOOMBERG 4K." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2500.png" group-title="ENGLISH - CANADA ",BNN BLOOMBERG 4K.
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2583
+#EXTINF:-1 tvg-id="2603" tvg-name="CTV NEWS NETWORK 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2520.png" group-title="ENGLISH - CANADA ",CTV NEWS NETWORK 4K
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2603
+#EXTINF:-1 tvg-id="2595" tvg-name="CTV DRAMA 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2512.png" group-title="ENGLISH - CANADA ",CTV DRAMA 4K
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2595
+#EXTINF:-1 tvg-id="2596" tvg-name="CTV COMEDY 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2513.png" group-title="ENGLISH - CANADA ",CTV COMEDY 4K
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2596
+#EXTINF:-1 tvg-id="2589" tvg-name="CNBC CANADA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2506.png" group-title="ENGLISH - CANADA ",CNBC CANADA
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2589
+#EXTINF:-1 tvg-id="2701" tvg-name="CNN HD CANADA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2618.png" group-title="ENGLISH - CANADA ",CNN HD CANADA
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2701
+#EXTINF:-1 tvg-id="2592" tvg-name="CHCH 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2509.png" group-title="ENGLISH - CANADA ",CHCH 4K
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2592
+#EXTINF:-1 tvg-id="2663" tvg-name="MSNBC" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2580.png" group-title="ENGLISH - CANADA ",MSNBC
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2663
+#EXTINF:-1 tvg-id="14443" tvg-name="AL JAZEERA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/14359.png" group-title="ENGLISH - CANADA ",AL JAZEERA
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=14443
+#EXTINF:-1 tvg-id="75052" tvg-name="DISCOVERY CHANNEL CA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/73986.png" group-title="ENGLISH - CANADA ",DISCOVERY CHANNEL CA
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=75052
+#EXTINF:-1 tvg-id="72967" tvg-name="GLOBAL NATIONAL (BC1)" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2562.png" group-title="ENGLISH - CANADA ",GLOBAL NATIONAL (BC1)
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=72967
+#EXTINF:-1 tvg-id="9285" tvg-name="APTN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9201.png" group-title="ENGLISH - CANADA ",APTN
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9285
+#EXTINF:-1 tvg-id="9243" tvg-name="COTTAGE LIFE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9159.png" group-title="ENGLISH - CANADA ",COTTAGE LIFE
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9243
+#EXTINF:-1 tvg-id="2604" tvg-name="CTV LIFE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2521.png" group-title="ENGLISH - CANADA ",CTV LIFE
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2604
+#EXTINF:-1 tvg-id="61035" tvg-name="TRAVEL XP REAL 4K." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60816.png" group-title="ENGLISH - CANADA ",TRAVEL XP REAL 4K.
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=61035
+#EXTINF:-1 tvg-id="70801" tvg-name="OMNI ICI FHD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/63272.png" group-title="ENGLISH - CANADA ",OMNI ICI FHD
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=70801
+#EXTINF:-1 tvg-id="9275" tvg-name="SALT LIGHT" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9191.png" group-title="ENGLISH - CANADA ",SALT LIGHT
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9275
+#EXTINF:-1 tvg-id="9276" tvg-name="SILVER SCREEN CLASSICS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9192.png" group-title="ENGLISH - CANADA ",SILVER SCREEN CLASSICS
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9276
+#EXTINF:-1 tvg-id="9278" tvg-name="STINGRAY CLASSIC" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9194.png" group-title="ENGLISH - CANADA ",STINGRAY CLASSIC
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9278
+#EXTINF:-1 tvg-id="9279" tvg-name="STINGRAY DJAZZ" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9195.png" group-title="ENGLISH - CANADA ",STINGRAY DJAZZ
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9279
+#EXTINF:-1 tvg-id="9280" tvg-name="STINGRAY ICONCERT" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9196.png" group-title="ENGLISH - CANADA ",STINGRAY ICONCERT
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9280
+#EXTINF:-1 tvg-id="17188" tvg-name="STINGRAY VIBE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/17089.png" group-title="ENGLISH - CANADA ",STINGRAY VIBE
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=17188
+#EXTINF:-1 tvg-id="9241" tvg-name="STINGRAY SOUL" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9157.png" group-title="ENGLISH - CANADA ",STINGRAY SOUL
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=9241
+#EXTINF:-1 tvg-id="2687" tvg-name="MTV HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2604.png" group-title="ENGLISH - CANADA ",MTV HD
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2687
+#EXTINF:-1 tvg-id="2669" tvg-name="MUCH MUSIC HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2586.png" group-title="ENGLISH - CANADA ",MUCH MUSIC HD
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2669
+#EXTINF:-1 tvg-id="2664" tvg-name="MAKEFUL" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2581.png" group-title="ENGLISH - CANADA ",MAKEFUL
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2664
+#EXTINF:-1 tvg-id="2633" tvg-name="DISCOVERY CHANNEL CANADA HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2550.png" group-title="ENGLISH - CANADA ",DISCOVERY CHANNEL CANADA HD
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2633
+#EXTINF:-1 tvg-id="2638" tvg-name="DISCOVERY SCIENCE CANADA HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2555.png" group-title="ENGLISH - CANADA ",DISCOVERY SCIENCE CANADA HD
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2638
+#EXTINF:-1 tvg-id="2655" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2572.png" group-title="ENGLISH - CANADA ",INVESTIGATION DISCOVERY
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2655
+#EXTINF:-1 tvg-id="2679" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2596.png" group-title="ENGLISH - CANADA ",SMITHSONIAN CHANNEL
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDAyNkYwQ0UyNDdFMkQiLCJkZXZpY2VfaWQyIjoiODExREYyM0Y2RUIyNkRDNUMwRTlFNDYyOUE2OUM0RTU0OTc5RTg2MDRGNTYzRUNCQTcwMDI2RjBDRTI0N0UyRCIsInNpZyI6IiJ9&id=2679
+#EXTINF:-1 tvg-id="2656" tvg-name="HISTORY 2" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2573.png" group-title="ENGLISH - CANADA ",HISTORY 2
+https://cold-snowflake-35fa.servertvhub564.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3RhdGF0di5jYzo4MC9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjIxOjQ3Iiwic24iOiJGQTYxQUNDMzIxREMzIiwiZGV2aWNlX2lkMSI6IjgxMURGMjNGNkVCMjZEQzVDMEU5RTQ2MjlBNjlDNEU1NDk3OUU4NjA0RjU2M0VDQkE3MDA
