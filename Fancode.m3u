@@ -1,0 +1,73 @@
+{
+    "Author": "AMIT",
+    "Telegram": "https://t.me/allinonereborn_amit",
+    "name": "FANCODE API",
+    "last_updated": "06:11:32 PM 26-03-2026",
+    "headers": {
+        "User-Agent": "@allinonereborn_links",
+        "Referer": "https://fancode.com/"
+    },
+    "live_matches": 3,
+    "matches": [
+        {
+            "type": "live",
+            "tournament": "Actors Cricket Bash 2026 Chandigarh Mavericks",
+            "match": "Jaipur vs Royals",
+            "match_id": "141351",
+            "category": "Cricket",
+            "language": "English",
+            "match_url": "https://www.fancode.com/chandigarh-mavericks-vs-jaipur-royals/tour/actors-cricket-bash-2026-19494162/matches/chandigarh-mavericks-vs-jaipur-royals-141351/live-match-info",
+            "stream_url": "https://in-mc-flive.fancode.com/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774615254~_GO=Generated~acl=/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/*~Signature=AeCY5MK6fxhp-PwwhyoeXr3DRkCYouZuTfksSF5ON8ioaV7fSc2ZxQESY62PfDY4dMHLcYumdK7NO8orPYxhJxvSYKcK",
+            "all_resolutions": {
+                "240p": "https://in-mc-flive.fancode.com/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/240p.m3u8?hdntl=Expires=1774615254~_GO=Generated~acl=/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/*~Signature=AeCY5MK6fxhp-PwwhyoeXr3DRkCYouZuTfksSF5ON8ioaV7fSc2ZxQESY62PfDY4dMHLcYumdK7NO8orPYxhJxvSYKcK",
+                "360p": "https://in-mc-flive.fancode.com/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/360p.m3u8?hdntl=Expires=1774615254~_GO=Generated~acl=/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/*~Signature=AeCY5MK6fxhp-PwwhyoeXr3DRkCYouZuTfksSF5ON8ioaV7fSc2ZxQESY62PfDY4dMHLcYumdK7NO8orPYxhJxvSYKcK",
+                "480p": "https://in-mc-flive.fancode.com/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/480p.m3u8?hdntl=Expires=1774615254~_GO=Generated~acl=/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/*~Signature=AeCY5MK6fxhp-PwwhyoeXr3DRkCYouZuTfksSF5ON8ioaV7fSc2ZxQESY62PfDY4dMHLcYumdK7NO8orPYxhJxvSYKcK",
+                "540p": "https://in-mc-flive.fancode.com/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/540p.m3u8?hdntl=Expires=1774615254~_GO=Generated~acl=/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/*~Signature=AeCY5MK6fxhp-PwwhyoeXr3DRkCYouZuTfksSF5ON8ioaV7fSc2ZxQESY62PfDY4dMHLcYumdK7NO8orPYxhJxvSYKcK",
+                "720p": "https://in-mc-flive.fancode.com/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/720p.m3u8?hdntl=Expires=1774615254~_GO=Generated~acl=/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/*~Signature=AeCY5MK6fxhp-PwwhyoeXr3DRkCYouZuTfksSF5ON8ioaV7fSc2ZxQESY62PfDY4dMHLcYumdK7NO8orPYxhJxvSYKcK",
+                "1080p": "https://in-mc-flive.fancode.com/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774615254~_GO=Generated~acl=/mumbai/141351_english_hls_0ad89fe0d170303_1ta-di_h264/*~Signature=AeCY5MK6fxhp-PwwhyoeXr3DRkCYouZuTfksSF5ON8ioaV7fSc2ZxQESY62PfDY4dMHLcYumdK7NO8orPYxhJxvSYKcK"
+            },
+            "image": "https://images.fancode.com/skillup-uploads/cms-media/141344_6005_JR_CMA_fc-Web_1773994359696.jpg",
+            "status": "started"
+        },
+        {
+            "type": "live",
+            "tournament": "Texas Children's Houston Open 2026 Marquee Group - Day 1 Memorial Park Golf Course -",
+            "match": "Houston, vs Texas",
+            "match_id": "141587",
+            "category": "Cricket",
+            "language": "English",
+            "match_url": "https://www.fancode.com/marquee-group-day-1/tour/texas-childrens-houston-open-2026-19537825/matches/marquee-group-day-1-141587/live-match-info",
+            "stream_url": "https://in-mc-flive.fancode.com/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774615267~_GO=Generated~acl=/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/*~Signature=AeCY5MI4or-7KIvX_fX5SIw4XFYyGaI9dPpiiL4s2zMHIxb_mYlPi8cAPbLy5J_nzB95VZDh9LOAazcOQK7yECfSCjwL",
+            "all_resolutions": {
+                "240p": "https://in-mc-flive.fancode.com/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/240p.m3u8?hdntl=Expires=1774615267~_GO=Generated~acl=/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/*~Signature=AeCY5MI4or-7KIvX_fX5SIw4XFYyGaI9dPpiiL4s2zMHIxb_mYlPi8cAPbLy5J_nzB95VZDh9LOAazcOQK7yECfSCjwL",
+                "360p": "https://in-mc-flive.fancode.com/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/360p.m3u8?hdntl=Expires=1774615267~_GO=Generated~acl=/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/*~Signature=AeCY5MI4or-7KIvX_fX5SIw4XFYyGaI9dPpiiL4s2zMHIxb_mYlPi8cAPbLy5J_nzB95VZDh9LOAazcOQK7yECfSCjwL",
+                "480p": "https://in-mc-flive.fancode.com/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/480p.m3u8?hdntl=Expires=1774615267~_GO=Generated~acl=/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/*~Signature=AeCY5MI4or-7KIvX_fX5SIw4XFYyGaI9dPpiiL4s2zMHIxb_mYlPi8cAPbLy5J_nzB95VZDh9LOAazcOQK7yECfSCjwL",
+                "540p": "https://in-mc-flive.fancode.com/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/540p.m3u8?hdntl=Expires=1774615267~_GO=Generated~acl=/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/*~Signature=AeCY5MI4or-7KIvX_fX5SIw4XFYyGaI9dPpiiL4s2zMHIxb_mYlPi8cAPbLy5J_nzB95VZDh9LOAazcOQK7yECfSCjwL",
+                "720p": "https://in-mc-flive.fancode.com/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/720p.m3u8?hdntl=Expires=1774615267~_GO=Generated~acl=/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/*~Signature=AeCY5MI4or-7KIvX_fX5SIw4XFYyGaI9dPpiiL4s2zMHIxb_mYlPi8cAPbLy5J_nzB95VZDh9LOAazcOQK7yECfSCjwL",
+                "1080p": "https://in-mc-flive.fancode.com/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774615267~_GO=Generated~acl=/mumbai/141587_english_hls_b0b1e866e9222_1ta-di_h264/*~Signature=AeCY5MI4or-7KIvX_fX5SIw4XFYyGaI9dPpiiL4s2zMHIxb_mYlPi8cAPbLy5J_nzB95VZDh9LOAazcOQK7yECfSCjwL"
+            },
+            "image": "https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
+            "status": "started"
+        },
+        {
+            "type": "live",
+            "tournament": "Texas Children's Houston Open 2026 Featured Groups - Day 1 Memorial Park Golf Course -",
+            "match": "Houston, vs Texas",
+            "match_id": "141588",
+            "category": "Cricket",
+            "language": "English",
+            "match_url": "https://www.fancode.com/featured-groups-day-1/tour/texas-childrens-houston-open-2026-19537825/matches/featured-groups-day-1-141588/live-match-info",
+            "stream_url": "https://in-mc-flive.fancode.com/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774615280~_GO=Generated~acl=/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/*~Signature=AeCY5MLyahjQTWInNswml5wYD0wiiuuMpaEgw12DjfFcQzvuol6zYnCMlSDsZULKQnIFpnLaiV59T5znUDPqJjMqLJUD",
+            "all_resolutions": {
+                "240p": "https://in-mc-flive.fancode.com/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/240p.m3u8?hdntl=Expires=1774615280~_GO=Generated~acl=/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/*~Signature=AeCY5MLyahjQTWInNswml5wYD0wiiuuMpaEgw12DjfFcQzvuol6zYnCMlSDsZULKQnIFpnLaiV59T5znUDPqJjMqLJUD",
+                "360p": "https://in-mc-flive.fancode.com/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/360p.m3u8?hdntl=Expires=1774615280~_GO=Generated~acl=/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/*~Signature=AeCY5MLyahjQTWInNswml5wYD0wiiuuMpaEgw12DjfFcQzvuol6zYnCMlSDsZULKQnIFpnLaiV59T5znUDPqJjMqLJUD",
+                "480p": "https://in-mc-flive.fancode.com/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/480p.m3u8?hdntl=Expires=1774615280~_GO=Generated~acl=/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/*~Signature=AeCY5MLyahjQTWInNswml5wYD0wiiuuMpaEgw12DjfFcQzvuol6zYnCMlSDsZULKQnIFpnLaiV59T5znUDPqJjMqLJUD",
+                "540p": "https://in-mc-flive.fancode.com/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/540p.m3u8?hdntl=Expires=1774615280~_GO=Generated~acl=/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/*~Signature=AeCY5MLyahjQTWInNswml5wYD0wiiuuMpaEgw12DjfFcQzvuol6zYnCMlSDsZULKQnIFpnLaiV59T5znUDPqJjMqLJUD",
+                "720p": "https://in-mc-flive.fancode.com/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/720p.m3u8?hdntl=Expires=1774615280~_GO=Generated~acl=/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/*~Signature=AeCY5MLyahjQTWInNswml5wYD0wiiuuMpaEgw12DjfFcQzvuol6zYnCMlSDsZULKQnIFpnLaiV59T5znUDPqJjMqLJUD",
+                "1080p": "https://in-mc-flive.fancode.com/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/1080p.m3u8?hdntl=Expires=1774615280~_GO=Generated~acl=/mumbai/141588_english_hls_9beae966e128393_1ta-di_h264/*~Signature=AeCY5MLyahjQTWInNswml5wYD0wiiuuMpaEgw12DjfFcQzvuol6zYnCMlSDsZULKQnIFpnLaiV59T5znUDPqJjMqLJUD"
+            },
+            "image": "https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
+            "status": "started"
+        }
+    ]
+}
